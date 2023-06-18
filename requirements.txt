@@ -1,0 +1,10 @@
+tkinter
+urllib3
+PIL
+numpy
+torch
+hydra
+cv2
+pandas
+numpy
+ultralytics
