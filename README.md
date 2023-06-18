@@ -1,5 +1,5 @@
 # vehicle-monitoring
-Vehicle monitoring using YOLOv8, DeepFace, OpenV and TKinter
+Vehicle monitoring using YOLOv8, DeepSort, OpenV and TKinter
 
 
 ## How to run:
